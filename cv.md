@@ -22,3 +22,8 @@ compliting rsschool tasks
 making projects on STM board
 My code examples at https://github.com/Ange1999
 
+###Education:
+I’m a last year student at BSUIR,faculty of computer aided design.
+
+###English:
+I learn English at the school and in the university.I finished summer courses at International House.
