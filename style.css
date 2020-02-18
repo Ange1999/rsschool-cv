@@ -1,0 +1,74 @@
+html, body {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background: url("https://images.wallpaperscraft.ru/image/les_derevia_vid_sverhu_136192_1920x1080.jpg" ) ;
+    background-size: cover;
+    
+}
+body{
+    flex-direction: column;
+    width: 1024px;
+    }  
+
+header{
+    display: flex;
+    justify-content: space-between;
+    height: 25%;
+    margin-right: 2%;
+  }
+h1 {
+    margin-top: 0;
+}
+
+header div{
+    margin-left: 2%;
+    font-weight: lighter;
+}
+section img{
+    width: 80px; 
+    height: 75px;
+    margin-top: 1%;
+    margin-right: 2%;
+    margin-left: 2%;
+    border-radius: 50%;
+}
+section p{
+    margin-right: 2%;
+}
+section {
+    display: flex;
+    font-weight: lighter;
+    color: #bac8c9;
+    background: #09262e;
+}
+main{
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-around;
+    align-items: flex-start;
+    height: 65%;
+    background: #09262e;
+    opacity: 0.85;
+}
+main div{
+    margin-right: 2%;
+    margin-left: 2%;
+    color: #b3c9ca;
+}
+a{
+    color: blanchedalmond;
+}
+
+footer{
+    display: flex;
+    justify-content: flex-end;
+    height: 10%;
+    margin-bottom: 0;
+    margin-left: 0;
+    color: rgb(204, 223, 211);
+    background: #010b13;
+    opacity: 0.9;
+}
